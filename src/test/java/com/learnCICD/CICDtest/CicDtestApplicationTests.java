@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class CicDtestApplicationTests {
 
-	@Test
+	@Test1
 	void contextLoads() {
 	}
 
