@@ -9,6 +9,7 @@ public class CicDtestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CicDtestApplication.class, args);
 		System.out.println("Learning CICD --Continues Integration and Continues Deployment");
+		System.out.println("Learning CICD --Continues Integration and Continues Deployment2");
 	}
 
 }
